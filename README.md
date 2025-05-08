@@ -1,1 +1,1 @@
-These glasses measure distance and depth and buzz accordingly
+This headset uses ultrasonci sensors to measure distance and depth and beeps accrdingly
